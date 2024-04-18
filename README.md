@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:
+## Date:18.4.2024
 
 ## AIM:
 To design a website to find surface area of a Right Cylinder in server side.
@@ -169,7 +169,8 @@ urlpatterns = [
 
 ## HOMEPAGE:
 
-![Screenshot (23)](https://github.com/Pavithra-M119/MathServer/assets/119229774/281672cc-abcf-4206-9869-97f656c7b67f)
+![Screenshot (23)](https://github.com/Pavithra-M119/MathServer/assets/119229774/937943e1-5071-444d-8d60-aa574a100eae)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
